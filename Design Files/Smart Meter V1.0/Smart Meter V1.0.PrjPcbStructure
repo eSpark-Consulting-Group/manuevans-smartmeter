@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=Can_Sheet.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Can_Sheet.SchDoc|FileName=Connector_Sheet.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Can_Sheet.SchDoc|FileName=Controller Sheet.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Can_Sheet.SchDoc|FileName=Ethernet Sheet.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Can_Sheet.SchDoc|FileName=Power Sheet1.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Can_Sheet.SchDoc|FileName=RS232, RS485 and RS422.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Can_Sheet.SchDoc|FileName=SD Card-Sheet.SchDoc|SheetNumber=7
