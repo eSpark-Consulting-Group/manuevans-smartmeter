@@ -36,9 +36,9 @@ Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=
 
 [PublishSettings]
-OutputFilePath2=C:\Users\eSpark\Desktop\smart meter\schematic\.PDF
+OutputFilePath2=C:\Users\eSpark\Documents\New folder\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\eSpark\Desktop\smart meter\schematic\
+OutputBasePath2=C:\Users\eSpark\Documents\New folder\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -115,7 +115,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\eSpark\Desktop\smart meter\schematic\.PDF
+RelativeOutputPath2=C:\Users\eSpark\Documents\New folder\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
