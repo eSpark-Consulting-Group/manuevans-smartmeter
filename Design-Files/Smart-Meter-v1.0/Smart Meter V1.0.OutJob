@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\eSpark\Documents\New folder (2)\.PDF
+OutputFilePath2=C:\Users\eSpark\Documents\Manu_schematic\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\eSpark\Documents\New folder (2)\
+OutputBasePath2=C:\Users\eSpark\Documents\Manu_schematic\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\eSpark\Documents\New folder (2)\.PDF
+RelativeOutputPath2=C:\Users\eSpark\Documents\Manu_schematic\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
