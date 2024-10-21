@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\eSpark\Documents\Manu_schematic\.PDF
+OutputFilePath2=D:\eSpark-Consultants\manuevans-smartmeter\Schematic\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\eSpark\Documents\Manu_schematic\
+OutputBasePath2=D:\eSpark-Consultants\manuevans-smartmeter\Schematic\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\eSpark\Documents\Manu_schematic\.PDF
+RelativeOutputPath2=D:\eSpark-Consultants\manuevans-smartmeter\Schematic\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
